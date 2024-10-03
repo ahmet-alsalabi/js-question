@@ -152,11 +152,12 @@
 
 
 
-function findCommonEle(arr1, key) {
-    const updateArray = arr1.filter(el => el !== key);
-    return updateArray;
-}
-let array1 = [4, 6, 7, 3, 143, 445, 3, 43, 5, 7]
-let key = 7
-let common = findCommonEle(array1,key);
-console.log(common);
+//function findCommonEle(arr1, key) {
+//    const updateArray = arr1.filter(el => el !== key);
+//    return updateArray;
+//}
+//let array1 = [4, 6, 7, 3, 143, 445, 3, 43, 5, 7]
+//let key = 7
+//let common = findCommonEle(array1, key);
+//console.log(common);
+////////////////////
